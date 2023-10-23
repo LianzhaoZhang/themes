@@ -110,14 +110,14 @@ p {
 
 /*inline latex*/
 .MathJax {
-    font-size: 120% !important;
+    font-size: 100% !important;
 }
 .MathJax text, .MathJax use {
     font-family: var(--latex-font);
 }
 /*math-block latex*/
 .md-math-block .MathJax {
-    font-size: 130% !important;
+    font-size: 100% !important;
 }
 
 /*mermaid*/
@@ -351,7 +351,7 @@ img {
 }
 
 #write {
-    max-width: 1200px;
+    max-width: 1800px;
     margin: 0 auto;
     padding: 20px 30px 100px;
 }
